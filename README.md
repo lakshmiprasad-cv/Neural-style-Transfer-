@@ -8,7 +8,7 @@
 <img src="./assets/b.png" width="280" height="280"/> 
     'style_img'                                                                 
     
-<img src="./assets/c.png" width="330" height="320"/>
+<img src="./assets/c.png" width="300" height="320"/>
       'output_img'                                                                                                                                         
 
     

@@ -2,7 +2,7 @@
 
 
 
-<img src="./assets/a.png" width="280" height="280"/> '+' <img src="./assets/b.png" width="280" height="280"/> '=' <img src="./assets/c.png" width="280" height="330"/>
+<img src="./assets/a.png" width="280" height="280"/> '+' <img src="./assets/b.png" width="280" height="280"/> '=' <img src="./assets/c.png" width="280" height="310"/>
 
 
 

@@ -6,8 +6,8 @@
     'style_img'                                                                 'content_img'
     
 
-.                               <img src="./assets/c.png" width="280" height="310"/>
-                                                    'output_img                                                                                           
+                                  <img src="./assets/c.png" width="280" height="310"/>
+                                                    'output_img'                                                                                           
 
 
 
